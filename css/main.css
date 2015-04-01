@@ -90,6 +90,7 @@ header nav ul li:hover a{
 	padding-bottom: 60px;
 	padding-left: 20px;
 	background:url(../images/page-flip.png);
+  background-repeat:no-repeat;
 }
 
 #column2of2{
